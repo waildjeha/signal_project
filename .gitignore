@@ -58,4 +58,3 @@ hs_err_pid*
 /local/
 /.env
 /.env.local
-.DS_Store
